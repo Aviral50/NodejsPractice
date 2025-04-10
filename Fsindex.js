@@ -1,4 +1,4 @@
-const fs =require('fs')
+//const fs =require('fs')
  
 //sync operation
 // fs.writeFileSync('./sample.txt',"Hello Aviral")
@@ -15,7 +15,7 @@ const fs =require('fs')
 // })
 //ab yaha se comment hatakar dekh sakte ho code kaise run hota hai sync aur async
 // console.log(1)
-// const result=fs.readFileSync('./sample.txt','utf-8')
+// const result=fs.readFileSync('./Fssample.txt','utf-8')
 // console.log(result)
 // console.log(2)
 
@@ -30,3 +30,4 @@ const fs =require('fs')
 // console.log(3)
 
 // //jab tak necessary na ho tab tak hamko async operation hi use karne hai
+
